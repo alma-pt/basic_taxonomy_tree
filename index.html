@@ -14,7 +14,6 @@
         width: 530px;
         top: 0;
         padding: 5px;
-        left: 40%;
         background-color: #fff;
      }
     #confirmation input {
@@ -40,11 +39,10 @@
       stroke: #b5c3cc;
       stroke-width: 1.5px;
     }
-
 </style>
 <body>
   <div id='confirmation'>
-    <input id="pathname"></input> has been copied to the clipboard.
+    <input id="pathname" type="text"></input> has been copied to the clipboard.
   </div>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -169,41 +167,8 @@ function update(source) {
   });
 }
 
-//function expand(d){
-//    var children = (d.children)?d.children:d._children;
-//    if (d._children) {
-//        d.children = d._children;
-//        d._children = null;
-//    }
-//    if(children)
-//      children.forEach(expand);
-//}
-
-//function expandAll(){
-//    expand(root);
-//    update(root);
-//}
-
-//function collapseAll(){
-//    root.children.forEach(collapse);
-//    collapse(root);
-//    update(root);
-//}
-
 // Toggle children on click.
 function click(d) {
-  expandAll();
-  //  function collapse(d) {
-//    if (d.children) {
-//      d._children = d.children;
-//      d._children.forEach(collapse);
-//      d.children = null;
-//    }
-//  }
-
-  //root.children.forEach(collapse);
-
-//  var hidden_path = document.createElement("input");
   var hidden_path = document.getElementById("pathname");
   hidden_path.setAttribute("value", d.path);
 //  document.body.appendChild(hidden_path);
