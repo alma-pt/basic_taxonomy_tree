@@ -5,47 +5,7 @@
     {
       "path": "Products/Women's", 
       "name": "Women's", 
-      "children": [
-        {
-          "path": "Products/Women's/Accessorie", 
-          "name": "Accessorie", 
-          "children": [
-            {
-              "path": "Products/Women's/Accessories", 
-              "name": "Accessories", 
-              "children": [
-                {
-                  "path": "Products/Women's/Accessories/Scraves", 
-                  "name": "Scraves"
-                }, 
-                {
-                  "path": "Products/Women's/Accessories/Hats", 
-                  "name": "Hats"
-                }, 
-                {
-                  "path": "Products/Women's/Accessories/Scarves", 
-                  "name": "Scarves"
-                }, 
-                {
-                  "path": "Products/Women's/Accessories/Belts", 
-                  "name": "Belts"
-                }, 
-                {
-                  "path": "Products/Women's/Accessories/Eyewear", 
-                  "name": "Eyewear"
-                }, 
-                {
-                  "path": "Products/Women's/Accessories/Gloves", 
-                  "name": "Gloves"
-                }
-              ]
-            }, 
-            {
-              "path": "Products/Women's/Accessorie/Eyewear", 
-              "name": "Eyewear"
-            }
-          ]
-        }, 
+      "children": [ 
         {
           "path": "Products/Women's/Shoes", 
           "name": "Shoes", 
