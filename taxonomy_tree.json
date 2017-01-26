@@ -53,6 +53,16 @@
               ]
             }, 
             {
+              "path": "Products/Women's/Shoes/Sandals", 
+              "name": "Sandals", 
+              "children": [
+                {
+                  "path": "Products/Women's/Shoes/Sandals/Slides", 
+                  "name": "Slides"
+                }
+              ]
+            }, 
+            {
               "path": "Products/Women's/Shoes/Espadrilles", 
               "name": "Espadrilles"
             }, 
@@ -63,16 +73,6 @@
             {
               "path": "Products/Women's/Shoes/Fashion Sneakers", 
               "name": "Fashion Sneakers"
-            }, 
-            {
-              "path": "Products/Women's/Shoes/Sandals", 
-              "name": "Sandals", 
-              "children": [
-                {
-                  "path": "Products/Women's/Shoes/Sandals/Slides", 
-                  "name": "Slides"
-                }
-              ]
             }
           ]
         }, 
@@ -99,10 +99,6 @@
             {
               "path": "Products/Women's/Jewelry/Charms", 
               "name": "Charms"
-            }, 
-            {
-              "path": "Products/Women's/Jewelry/Jewelry Sets", 
-              "name": "Jewelry Sets"
             }, 
             {
               "path": "Products/Women's/Jewelry/Earrings", 
@@ -139,10 +135,6 @@
             {
               "path": "Products/Women's/Accessories/Tech", 
               "name": "Tech"
-            }, 
-            {
-              "path": "Products/Women's/Accessories/Scraves", 
-              "name": "Scraves"
             }, 
             {
               "path": "Products/Women's/Accessories/Hats", 
@@ -210,13 +202,7 @@
             }, 
             {
               "path": "Products/Women's/Clothing/Maternity", 
-              "name": "Maternity", 
-              "children": [
-                {
-                  "path": "Products/Women's/Clothing/Maternity/Tights & Hosiery", 
-                  "name": "Tights & Hosiery"
-                }
-              ]
+              "name": "Maternity"
             }, 
             {
               "path": "Products/Women's/Clothing/Socks & Hosiery", 
@@ -323,12 +309,8 @@
               ]
             }, 
             {
-              "path": "Products/Women's/Clothing/Blazers & Suit Jackets", 
-              "name": "Blazers & Suit Jackets"
-            }, 
-            {
-              "path": "Products/Women's/Clothing/Vests", 
-              "name": "Vests"
+              "path": "Products/Women's/Clothing/Skirts", 
+              "name": "Skirts"
             }, 
             {
               "path": "Products/Women's/Clothing/Shorts", 
@@ -342,10 +324,6 @@
                   "path": "Products/Women's/Clothing/Active/Pants", 
                   "name": "Pants", 
                   "children": [
-                    {
-                      "path": "Products/Women's/Clothing/Active/Pants/Capris", 
-                      "name": "Capris"
-                    }, 
                     {
                       "path": "Products/Women's/Clothing/Active/Pants/Track Pants", 
                       "name": "Track Pants"
@@ -371,10 +349,6 @@
               "name": "Jumpsuits & Rompers"
             }, 
             {
-              "path": "Products/Women's/Clothing/Skirts", 
-              "name": "Skirts"
-            }, 
-            {
               "path": "Products/Women's/Clothing/Sweaters", 
               "name": "Sweaters", 
               "children": [
@@ -387,20 +361,20 @@
                   "name": "Turtlenecks"
                 }, 
                 {
-                  "path": "Products/Women's/Clothing/Sweaters/Ponchos", 
-                  "name": "Ponchos"
-                }, 
-                {
                   "path": "Products/Women's/Clothing/Sweaters/Cardigans", 
                   "name": "Cardigans"
+                }, 
+                {
+                  "path": "Products/Women's/Clothing/Sweaters/V-Necks", 
+                  "name": "V-Necks"
                 }, 
                 {
                   "path": "Products/Women's/Clothing/Sweaters/Crewnecks", 
                   "name": "Crewnecks"
                 }, 
                 {
-                  "path": "Products/Women's/Clothing/Sweaters/V-Necks", 
-                  "name": "V-Necks"
+                  "path": "Products/Women's/Clothing/Sweaters/Ponchos", 
+                  "name": "Ponchos"
                 }
               ]
             }, 
@@ -529,26 +503,6 @@
       "name": "Electronics, Toys & Games", 
       "children": [
         {
-          "path": "Products/Electronics, Toys & Games/Accessories & Supplies", 
-          "name": "Accessories & Supplies", 
-          "children": [
-            {
-              "path": "Products/Electronics, Toys & Games/Accessories & Supplies/Cables", 
-              "name": "Cables", 
-              "children": [
-                {
-                  "path": "Products/Electronics, Toys & Games/Accessories & Supplies/Cables/Audio & Video", 
-                  "name": "Audio & Video"
-                }
-              ]
-            }, 
-            {
-              "path": "Products/Electronics, Toys & Games/Accessories & Supplies/Office Electronics Accessories", 
-              "name": "Office Electronics Accessories"
-            }
-          ]
-        }, 
-        {
           "path": "Products/Electronics, Toys & Games/Car Electronics", 
           "name": "Car Electronics"
         }, 
@@ -607,6 +561,10 @@
                   "name": "Laser"
                 }
               ]
+            }, 
+            {
+              "path": "Products/Electronics, Toys & Games/Office Electronics/Subscriptions & Plans", 
+              "name": "Subscriptions & Plans"
             }
           ]
         }
@@ -622,13 +580,7 @@
           "children": [
             {
               "path": "Products/Beauty/Tools & Accessories/Hair Styling Tools", 
-              "name": "Hair Styling Tools", 
-              "children": [
-                {
-                  "path": "Products/Beauty/Tools & Accessories/Hair Styling Tools/Brushes", 
-                  "name": "Brushes"
-                }
-              ]
+              "name": "Hair Styling Tools"
             }, 
             {
               "path": "Products/Beauty/Tools & Accessories/Makeup Brushes & Tools", 
@@ -795,6 +747,10 @@
               "name": "Face"
             }, 
             {
+              "path": "Products/Beauty/Skin Care/Lips", 
+              "name": "Lips"
+            }, 
+            {
               "path": "Products/Beauty/Skin Care/Body", 
               "name": "Body", 
               "children": [
@@ -863,6 +819,10 @@
                   "name": "Shorts"
                 }, 
                 {
+                  "path": "Products/Kids' & Baby/Boys'/Clothing/Undershirts", 
+                  "name": "Undershirts"
+                }, 
+                {
                   "path": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos", 
                   "name": "Shirts & Polos", 
                   "children": [
@@ -873,32 +833,8 @@
                   ]
                 }, 
                 {
-                  "path": "Products/Kids' & Baby/Boys'/Clothing/Shirts", 
-                  "name": "Shirts", 
-                  "children": [
-                    {
-                      "path": "Products/Kids' & Baby/Boys'/Clothing/Shirts/Polos", 
-                      "name": "Polos"
-                    }, 
-                    {
-                      "path": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos", 
-                      "name": "Shirts & Polos", 
-                      "children": [
-                        {
-                          "path": "Products/Kids' & Baby/Boys'/Clothing/Shirts & Polos/Dress Shirts", 
-                          "name": "Dress Shirts"
-                        }
-                      ]
-                    }
-                  ]
-                }, 
-                {
                   "path": "Products/Kids' & Baby/Boys'/Clothing/Swim", 
                   "name": "Swim"
-                }, 
-                {
-                  "path": "Products/Kids' & Baby/Boys'/Clothing/Underwear & Socks", 
-                  "name": "Underwear & Socks"
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Boys'/Clothing/Coats & Jackets", 
@@ -923,8 +859,12 @@
                   "name": "Socks"
                 }, 
                 {
-                  "path": "Products/Kids' & Baby/Boys'/Clothing/Sweatshirts, Pants & Suits", 
-                  "name": "Sweatshirts, Pants & Suits"
+                  "path": "Products/Kids' & Baby/Boys'/Clothing/Underwear", 
+                  "name": "Underwear"
+                }, 
+                {
+                  "path": "Products/Kids' & Baby/Boys'/Clothing/Suits & Sport Coats", 
+                  "name": "Suits & Sport Coats"
                 }
               ]
             }, 
@@ -963,32 +903,10 @@
                   "name": "Sneakers"
                 }, 
                 {
-                  "path": "Products/Kids' & Baby/Boys'/Shoes/Sandals", 
-                  "name": "Sandals"
-                }, 
-                {
                   "path": "Products/Kids' & Baby/Boys'/Shoes/Slippers", 
                   "name": "Slippers"
                 }
               ]
-            }, 
-            {
-              "path": "Products/Kids' & Baby/Boys'/Sweaters", 
-              "name": "Sweaters"
-            }
-          ]
-        }, 
-        {
-          "path": "Products/Kids' & Baby/Little Kids", 
-          "name": "Little Kids", 
-          "children": [
-            {
-              "path": "Products/Kids' & Baby/Little Kids/Clothing", 
-              "name": "Clothing"
-            }, 
-            {
-              "path": "Products/Kids' & Baby/Little Kids/Accessories", 
-              "name": "Accessories"
             }
           ]
         }, 
@@ -1005,8 +923,42 @@
                   "name": "Flats"
                 }, 
                 {
+                  "path": "Products/Kids' & Baby/Girls'/Shoes/Loafers", 
+                  "name": "Loafers"
+                }, 
+                {
                   "path": "Products/Kids' & Baby/Girls'/Shoes/Boots", 
                   "name": "Boots"
+                }, 
+                {
+                  "path": "Products/Kids' & Baby/Girls'/Shoes/", 
+                  "name": "", 
+                  "children": [
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Flats", 
+                      "name": "Flats"
+                    }, 
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Loafers", 
+                      "name": "Loafers"
+                    }, 
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Boots", 
+                      "name": "Boots"
+                    }, 
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Sneakers", 
+                      "name": "Sneakers"
+                    }, 
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Sandals", 
+                      "name": "Sandals"
+                    }, 
+                    {
+                      "path": "Products/Kids' & Baby/Girls'/Shoes/Slippers", 
+                      "name": "Slippers"
+                    }
+                  ]
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Girls'/Shoes/Sneakers", 
@@ -1053,6 +1005,22 @@
                   "name": "Sleepwear & Robes", 
                   "children": [
                     {
+                      "path": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/", 
+                      "name": "", 
+                      "children": [
+                        {
+                          "path": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas", 
+                          "name": "Pajamas", 
+                          "children": [
+                            {
+                              "path": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas/Pajama Sets", 
+                              "name": "Pajama Sets"
+                            }
+                          ]
+                        }
+                      ]
+                    }, 
+                    {
                       "path": "Products/Kids' & Baby/Girls'/Clothing/Sleepwear & Robes/Pajamas", 
                       "name": "Pajamas", 
                       "children": [
@@ -1089,24 +1057,16 @@
                   "name": "Clothing Sets"
                 }, 
                 {
-                  "path": "Products/Kids' & Baby/Girls'/Clothing/Shirts", 
-                  "name": "Shirts"
-                }, 
-                {
-                  "path": "Products/Kids' & Baby/Girls'/Clothing/Suits & Vests", 
-                  "name": "Suits & Vests"
-                }, 
-                {
-                  "path": "Products/Kids' & Baby/Girls'/Clothing/Sweatshirts, Pants & Suits", 
-                  "name": "Sweatshirts, Pants & Suits"
-                }, 
-                {
                   "path": "Products/Kids' & Baby/Girls'/Clothing/Coats & Jackets", 
                   "name": "Coats & Jackets"
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Girls'/Clothing/Underwear, Socks & Tights", 
                   "name": "Underwear, Socks & Tights"
+                }, 
+                {
+                  "path": "Products/Kids' & Baby/Girls'/Clothing/Socks & Tights", 
+                  "name": "Socks & Tights"
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Girls'/Clothing/Underwear", 
@@ -1183,10 +1143,6 @@
                 {
                   "path": "Products/Kids' & Baby/Infant & Toddler/Clothing/Separates", 
                   "name": "Separates"
-                }, 
-                {
-                  "path": "Products/Kids' & Baby/Infant & Toddler/Clothing/Newborn", 
-                  "name": "Newborn"
                 }
               ]
             }, 
@@ -1265,6 +1221,10 @@
               "name": "Clothing", 
               "children": [
                 {
+                  "path": "Products/Kids' & Baby/Juniors'/Clothing/Coats & Jackets", 
+                  "name": "Coats & Jackets"
+                }, 
+                {
                   "path": "Products/Kids' & Baby/Juniors'/Clothing/Jeans", 
                   "name": "Jeans"
                 }, 
@@ -1275,10 +1235,6 @@
                 {
                   "path": "Products/Kids' & Baby/Juniors'/Clothing/Dresses", 
                   "name": "Dresses"
-                }, 
-                {
-                  "path": "Products/Kids' & Baby/Juniors'/Clothing/Coats & Jackets", 
-                  "name": "Coats & Jackets"
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Juniors'/Clothing/Vests", 
@@ -1320,13 +1276,7 @@
               "children": [
                 {
                   "path": "Products/Kids' & Baby/Juniors'/Shoes/Sandals", 
-                  "name": "Sandals", 
-                  "children": [
-                    {
-                      "path": "Products/Kids' & Baby/Juniors'/Shoes/Sandals/Slides", 
-                      "name": "Slides"
-                    }
-                  ]
+                  "name": "Sandals"
                 }, 
                 {
                   "path": "Products/Kids' & Baby/Juniors'/Shoes/Boots", 
@@ -1338,10 +1288,6 @@
               "path": "Products/Kids' & Baby/Juniors'/Accessories", 
               "name": "Accessories", 
               "children": [
-                {
-                  "path": "Products/Kids' & Baby/Juniors'/Accessories/Scarves", 
-                  "name": "Scarves"
-                }, 
                 {
                   "path": "Products/Kids' & Baby/Juniors'/Accessories/Hats", 
                   "name": "Hats"
@@ -1370,13 +1316,7 @@
           "children": [
             {
               "path": "Products/Home/Furniture & Décor/Furniture", 
-              "name": "Furniture", 
-              "children": [
-                {
-                  "path": "Products/Home/Furniture & Décor/Furniture/Dining Room Furniture", 
-                  "name": "Dining Room Furniture"
-                }
-              ]
+              "name": "Furniture"
             }, 
             {
               "path": "Products/Home/Furniture & Décor/Lighting", 
@@ -1386,10 +1326,6 @@
               "path": "Products/Home/Furniture & Décor/Home Décor", 
               "name": "Home Décor", 
               "children": [
-                {
-                  "path": "Products/Home/Furniture & Décor/Home Décor/Slipcovers", 
-                  "name": "Slipcovers"
-                }, 
                 {
                   "path": "Products/Home/Furniture & Décor/Home Décor/Home Décor Accents", 
                   "name": "Home Décor Accents"
@@ -1405,6 +1341,10 @@
                 {
                   "path": "Products/Home/Furniture & Décor/Home Décor/Christmas Décor", 
                   "name": "Christmas Décor"
+                }, 
+                {
+                  "path": "Products/Home/Furniture & Décor/Home Décor/Slipcovers", 
+                  "name": "Slipcovers"
                 }, 
                 {
                   "path": "Products/Home/Furniture & Décor/Home Décor/Window Treatments", 
@@ -1432,13 +1372,7 @@
             }, 
             {
               "path": "Products/Home/Furniture & Décor/Candles & Home Scents", 
-              "name": "Candles & Home Scents", 
-              "children": [
-                {
-                  "path": "Products/Home/Furniture & Décor/Candles & Home Scents/Home Fragrance Accessories", 
-                  "name": "Home Fragrance Accessories"
-                }
-              ]
+              "name": "Candles & Home Scents"
             }
           ]
         }, 
@@ -1452,29 +1386,11 @@
         }, 
         {
           "path": "Products/Home/Health & Personal Care", 
-          "name": "Health & Personal Care", 
-          "children": [
-            {
-              "path": "Products/Home/Health & Personal Care/Health Care", 
-              "name": "Health Care", 
-              "children": [
-                {
-                  "path": "Products/Home/Health & Personal Care/Health Care/Women's Health", 
-                  "name": "Women's Health"
-                }
-              ]
-            }
-          ]
+          "name": "Health & Personal Care"
         }, 
         {
           "path": "Products/Home/Shoe Care & Cleaning", 
-          "name": "Shoe Care & Cleaning", 
-          "children": [
-            {
-              "path": "Products/Home/Shoe Care & Cleaning/Shoe Care Accessories", 
-              "name": "Shoe Care Accessories"
-            }
-          ]
+          "name": "Shoe Care & Cleaning"
         }, 
         {
           "path": "Products/Home/Bedding & Bath", 
@@ -1495,12 +1411,12 @@
                   ]
                 }, 
                 {
-                  "path": "Products/Home/Bedding & Bath/Bath/Towels", 
-                  "name": "Towels"
-                }, 
-                {
                   "path": "Products/Home/Bedding & Bath/Bath/Bath Rugs", 
                   "name": "Bath Rugs"
+                }, 
+                {
+                  "path": "Products/Home/Bedding & Bath/Bath/Towels", 
+                  "name": "Towels"
                 }
               ]
             }, 
@@ -1510,13 +1426,7 @@
               "children": [
                 {
                   "path": "Products/Home/Bedding & Bath/Bedding/Blankets & Throws", 
-                  "name": "Blankets & Throws", 
-                  "children": [
-                    {
-                      "path": "Products/Home/Bedding & Bath/Bedding/Blankets & Throws/Bed Blankets", 
-                      "name": "Bed Blankets"
-                    }
-                  ]
+                  "name": "Blankets & Throws"
                 }, 
                 {
                   "path": "Products/Home/Bedding & Bath/Bedding/Mattress Pads", 
@@ -1532,13 +1442,7 @@
                 }, 
                 {
                   "path": "Products/Home/Bedding & Bath/Bedding/Bed Pillows", 
-                  "name": "Bed Pillows", 
-                  "children": [
-                    {
-                      "path": "Products/Home/Bedding & Bath/Bedding/Bed Pillows/Travel Pillows", 
-                      "name": "Travel Pillows"
-                    }
-                  ]
+                  "name": "Bed Pillows"
                 }, 
                 {
                   "path": "Products/Home/Bedding & Bath/Bedding/Sheets & Pillowcases", 
@@ -1561,6 +1465,10 @@
                   "name": "Duvet Covers & Sets"
                 }, 
                 {
+                  "path": "Products/Home/Bedding & Bath/Bedding/Mattresses & Frames", 
+                  "name": "Mattresses & Frames"
+                }, 
+                {
                   "path": "Products/Home/Bedding & Bath/Bedding/Kids' Bedding", 
                   "name": "Kids' Bedding"
                 }
@@ -1569,17 +1477,9 @@
           ]
         }, 
         {
-          "path": "Products/Home/Laptop Bags & Cases", 
-          "name": "Laptop Bags & Cases"
-        }, 
-        {
           "path": "Products/Home/Luggage, Bags & Travel", 
           "name": "Luggage, Bags & Travel", 
           "children": [
-            {
-              "path": "Products/Home/Luggage, Bags & Travel/Briefcases", 
-              "name": "Briefcases"
-            }, 
             {
               "path": "Products/Home/Luggage, Bags & Travel/Bags & Backpacks", 
               "name": "Bags & Backpacks", 
@@ -1615,6 +1515,10 @@
                   "name": "Totes"
                 }
               ]
+            }, 
+            {
+              "path": "Products/Home/Luggage, Bags & Travel/Laptop Bags & Cases", 
+              "name": "Laptop Bags & Cases"
             }
           ]
         }, 
@@ -1797,10 +1701,6 @@
       "name": "Men's", 
       "children": [
         {
-          "path": "Products/Men's/Fan Gear", 
-          "name": "Fan Gear"
-        }, 
-        {
           "path": "Products/Men's/Shoes", 
           "name": "Shoes", 
           "children": [
@@ -1871,10 +1771,6 @@
           "name": "Jewelry", 
           "children": [
             {
-              "path": "Products/Men's/Jewelry/Shirt Studs", 
-              "name": "Shirt Studs"
-            }, 
-            {
               "path": "Products/Men's/Jewelry/Tie Clips", 
               "name": "Tie Clips"
             }, 
@@ -1884,13 +1780,7 @@
             }, 
             {
               "path": "Products/Men's/Jewelry/Watches", 
-              "name": "Watches", 
-              "children": [
-                {
-                  "path": "Products/Men's/Jewelry/Watches/Smart Watches & Activity Trackers", 
-                  "name": "Smart Watches & Activity Trackers"
-                }
-              ]
+              "name": "Watches"
             }
           ]
         }, 
@@ -1899,24 +1789,16 @@
           "name": "Accessories", 
           "children": [
             {
-              "path": "Products/Men's/Accessories/Wallets, Money & Key Organizers", 
-              "name": "Wallets, Money & Key Organizers"
-            }, 
-            {
               "path": "Products/Men's/Accessories/Gloves", 
               "name": "Gloves"
             }, 
             {
+              "path": "Products/Men's/Accessories/Wallets, Money & Key Organizers", 
+              "name": "Wallets, Money & Key Organizers"
+            }, 
+            {
               "path": "Products/Men's/Accessories/Ties", 
               "name": "Ties"
-            }, 
-            {
-              "path": "Products/Men's/Accessories/Tech", 
-              "name": "Tech"
-            }, 
-            {
-              "path": "Products/Men's/Accessories/Belts", 
-              "name": "Belts"
             }, 
             {
               "path": "Products/Men's/Accessories/Scarves", 
@@ -1929,6 +1811,10 @@
             {
               "path": "Products/Men's/Accessories/Hats", 
               "name": "Hats"
+            }, 
+            {
+              "path": "Products/Men's/Accessories/Belts", 
+              "name": "Belts"
             }
           ]
         }, 
@@ -1936,10 +1822,6 @@
           "path": "Products/Men's/Clothing", 
           "name": "Clothing", 
           "children": [
-            {
-              "path": "Products/Men's/Clothing/Hoodies & Track Jackets", 
-              "name": "Hoodies & Track Jackets"
-            }, 
             {
               "path": "Products/Men's/Clothing/Coats & Jackets", 
               "name": "Coats & Jackets", 
@@ -1953,10 +1835,6 @@
                   "name": "Vests"
                 }, 
                 {
-                  "path": "Products/Men's/Clothing/Coats & Jackets/Wool", 
-                  "name": "Wool"
-                }, 
-                {
                   "path": "Products/Men's/Clothing/Coats & Jackets/Trenches & Raincoats", 
                   "name": "Trenches & Raincoats"
                 }, 
@@ -1965,10 +1843,6 @@
                   "name": "Leather"
                 }
               ]
-            }, 
-            {
-              "path": "Products/Men's/Clothing/Shorts", 
-              "name": "Shorts"
             }, 
             {
               "path": "Products/Men's/Clothing/T-Shirts", 
@@ -2029,14 +1903,14 @@
               "name": "Shirts & Polos", 
               "children": [
                 {
-                  "path": "Products/Men's/Clothing/Shirts & Polos/Polos", 
-                  "name": "Polos"
-                }, 
-                {
                   "path": "Products/Men's/Clothing/Shirts & Polos/Dress Shirts", 
                   "name": "Dress Shirts"
                 }
               ]
+            }, 
+            {
+              "path": "Products/Men's/Clothing/Shorts", 
+              "name": "Shorts"
             }, 
             {
               "path": "Products/Men's/Clothing/Sweaters", 
