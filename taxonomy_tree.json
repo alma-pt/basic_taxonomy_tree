@@ -1,5 +1,6 @@
 {
   "path": "Products", 
+  "version": "1.1.2", 
   "name": "Products", 
   "children": [
     {
@@ -661,8 +662,8 @@
                   "name": "Powders"
                 }, 
                 {
-                  "path": "Products/Beauty/Makeup/Face/Concealers & Nuetralizers", 
-                  "name": "Concealers & Nuetralizers"
+                  "path": "Products/Beauty/Makeup/Face/Concealers & Neutralizers", 
+                  "name": "Concealers & Neutralizers"
                 }, 
                 {
                   "path": "Products/Beauty/Makeup/Face/Foundations", 
